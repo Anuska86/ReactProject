@@ -2,11 +2,10 @@
   box-sizing: border-box;
 }
 
-
 body {
   padding: 20px;
   background: #c0dffa;
-  color:black;
+  color: black;
   font-size: 1.3em;
 }
 
@@ -17,6 +16,7 @@ h1 {
   color: #0077b6;
 }
 
-.react-facts{
-  width:300px;
+.react-facts {
+  width: 350px;
+  border-radius: 5%;
 }
