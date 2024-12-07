@@ -5,15 +5,16 @@
 
 body {
   padding: 20px;
-  background: #669bbc;
-  color: rgb(0, 0, 0);
+  background: #bde0fe;
+  color:black;
+  font-size: 1.3em;
 }
 
 h1 {
-  font-size: 2em;
+  font-size: 1.8em;
   line-height: 1.1;
   margin-top: 20px;
-  color: #780000;
+  color: #0077b6;
 }
 
 .react-facts{
