@@ -53,3 +53,8 @@ main > h1 {
   padding-block: 10px;
   line-height: 30px;
 }
+
+.react-facts > li::marker {
+  color: #0077b6;
+  font-size: 1.5rem;
+}
