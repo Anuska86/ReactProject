@@ -50,6 +50,6 @@ main > h1 {
 }
 
 .react-facts > li {
-  margin-block: 10px;
-  line-height: 25px;
+  padding-block: 10px;
+  line-height: 30px;
 }
