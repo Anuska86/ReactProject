@@ -33,3 +33,22 @@ nav > img {
   border-radius: 5%;
   margin-right: 7px;
 }
+
+main {
+  padding: 60px 30px;
+}
+
+main > h1{
+  margin: 0;
+  font-size: 1.8em;
+}
+
+.react-facts {
+  margin-top: 40px;
+  max-width: 800px;
+}
+
+.react-facts >li {
+  margin-block: 10px;
+  line-height: 25px;
+}

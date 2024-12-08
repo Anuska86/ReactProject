@@ -1,8 +1,8 @@
 export default function App() {
   return (
     <main>
-      <h1>Main goes here</h1>
-      <ul>
+      <h1>Learning fun facts about React: </h1>
+      <ul className="react-facts">
         <li>
           React was initially developed by Jordan Walke, a software engineer at
           Facebook, and it was first deployed on Facebook’s newsfeed in 2011.
