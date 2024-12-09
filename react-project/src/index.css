@@ -40,6 +40,7 @@ nav > img {
 
 main {
   padding: 60px 30px;
+  padding-right: 0%;
 }
 
 main > h1 {
@@ -49,13 +50,13 @@ main > h1 {
 
 main > div {
   margin-left: 3em;
-  margin-right: 3em;
 }
 
 main > div > div > img {
-  width: 8em;
+  width: 6em;
   float: right;
   opacity: 0.6;
+
 }
 
 .react-facts {
@@ -63,7 +64,7 @@ main > div > div > img {
 }
 
 .react-facts > li {
-  padding-block: 10px;
+  padding-block: 20px;
   line-height: 30px;
 }
 

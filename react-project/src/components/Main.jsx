@@ -5,7 +5,7 @@ export default function App() {
       <div>
         <div>
           <img
-            src="src/imgs/react-logo.png"
+            src="src/imgs/react_half.png"
             alt="React logo"
           />
         </div>
